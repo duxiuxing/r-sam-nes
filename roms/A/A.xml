@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List>
+    <Game crc32="4DAD1C95" bytes="262160"
+        rom="Abadox - The Deadly Inner War"
+        en="Abadox - The Deadly Inner War"
+        zhcn="飞人战士"
+        region="USA"
+    />
+    <Game crc32="C0AEEC28" bytes="262160"
+        rom="Abadox - The Deadly Inner War"
+        en="Abadox - The Deadly Inner War"
+        zhcn="飞人战士"
+        region="China"
+    />
+    <Game crc32="995B3FFF" bytes="65552"
+        rom="Adventure Island"
+        en="Adventure Island"
+        zhcn="冒险岛"
+        region="USA"
+    />
+    <Game crc32="CCA56A6F" bytes="262160"
+        rom="Adventure Island II"
+        en="Adventure Island II"
+        zhcn="冒险岛2"
+        region="USA"
+    />
+    <Game crc32="04063067" bytes="262160"
+        rom="Adventure Island 3"
+        en="Adventure Island 3"
+        zhcn="冒险岛3"
+        region="USA"
+    />
+    <Game crc32="B638CD5B" bytes="286736"
+        rom="Adventure Island 3"
+        en="Adventure Island 3"
+        zhcn="冒险岛3"
+        region="China"
+    />
+    <Game crc32="C2A2F654" bytes="65552"
+        rom="Adventures of Dino Riki"
+        en="Adventures of Dino Riki"
+        zhcn="新人类"
+        region="China"
+    />
+    <Game crc32="FA221E26" bytes="65552"
+        rom="Adventures of Dino Riki"
+        en="Adventures of Dino Riki"
+        zhcn="新人类"
+        region="USA"
+    />
+    <Game crc32="C3945386" bytes="262160"
+        rom="Akumajou Special - Boku Dracula-kun"
+        en="Demon Castle Special - I'm Kid Dracula"
+        zhcn="恶魔城外传 王子传奇"
+        region="Japan"
+    />
+    <Game crc32="5A2CDDE8" bytes="262160"
+        rom="Alien 3"
+        en="Alien 3"
+        zhcn="异形3"
+        region="China"
+    />
+    <Game crc32="6D5AF3E9" bytes="262160"
+        rom="Alien 3"
+        en="Alien 3"
+        zhcn="异形3"
+        region="USA"
+    />
+    <Game crc32="2C31447E" bytes="65552"
+        rom="Alpha Mission"
+        en="Alpha Mission"
+        zhcn="ASO组合战机"
+        region="USA"
+    />
+    <Game crc32="757488E0" bytes="49168"
+        rom="Arkanoid"
+        en="Arkanoid"
+        zhcn="打砖块"
+        region="USA"
+    />
+    <Game crc32="CFF39DAE" bytes="81936"
+        rom="Arkanoid"
+        en="Arkanoid"
+        zhcn="打砖块"
+        region="China"
+    />
+    <Game crc32="B130942B" bytes="196624"
+        rom="Arkanoid II"
+        en="Arkanoid II"
+        zhcn="打砖块2"
+        region="Japan"
+    />
+    <Game crc32="E3ED94F8" bytes="65552"
+        rom="Arkista's Ring"
+        en="Arkista's Ring"
+        zhcn="阿基斯塔之戒"
+        region="USA"
+    />
+    <Game crc32="BEF556D1" bytes="262160"
+        rom="Astyanax"
+        en="Astyanax"
+        zhcn="斧王"
+        region="USA"
+    />
+</Game-List>
