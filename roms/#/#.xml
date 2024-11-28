@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List>
+    <Game crc32="426A7B5A" bytes="131088"
+        rom="3-D WorldRunner (USA)"
+        name="3-D WorldRunner"
+        en="3-D WorldRunner"
+        zhcn="3D世界奔跑者"
+        region="USA"
+    />
+    <Game crc32="89D3518C" bytes="262160"
+        rom="8 Eyes (USA)"
+        name="8 Eyes"
+        en="8 Eyes"
+        zhcn="8只眼"
+        region="USA"
+    />
+    <Game crc32="A2F550AC" bytes="262160"
+        rom="8 Eyes (China)"
+        name="8 Eyes"
+        en="8 Eyes (China)"
+        zhcn="8只眼(中)"
+        region="China"
+    />
+    <Game crc32="C986CDA2" bytes="40976"
+        rom="10-Yard Fight (USA, Europe)"
+        name="10-Yard Fight"
+        en="10-Yard Fight"
+        zhcn="10码美式足球大赛"
+        region="USA, Europe"
+    />
+    <Game crc32="74D7BAE1" bytes="40976"
+        rom="1942 (Japan, USA) (En)"
+        name="1942"
+        en="1942"
+        zhcn="1942"
+        region="Japan, USA"
+    />
+    <Game crc32="43F51DEB" bytes="262672"
+        rom="1943 - The Battle of Midway (China)"
+        name="1943 - The Battle of Midway"
+        en="1943 - The Battle of Midway (China)"
+        zhcn="1943 中途岛战役(中)"
+        region="China"
+    />
+    <Game crc32="46F660C9"
+        bytes="131088"
+        rom="1943 - The Battle of Midway (USA)"
+        name="1943 - The Battle of Midway"
+        en="1943 - The Battle of Midway"
+        zhcn="1943 中途岛战役"
+        region="USA"
+    />
+</Game-List>
