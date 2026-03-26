@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Game-List>
+<?xml version="1.0" encoding="utf-8"?>
+<GameList description="英文名首字母为 A 的游戏">
     <Game crc32="4DAD1C95" bytes="262160"
         rom="Abadox - The Deadly Inner War (USA)"
         name="Abadox - The Deadly Inner War"
@@ -119,4 +119,4 @@
         zhcn="斧王"
         region="USA"
     />
-</Game-List>
+</GameList>
